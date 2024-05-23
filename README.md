@@ -72,3 +72,5 @@ There are 3 Python files;
 1. app.py
 2. celery_config.py
 3. tasks.py
+
+Video Link: https://drive.google.com/file/d/1P3gvgEi1CBat7yFJ5LbVEsAe3cj3nOAt/view?usp=drive_link
