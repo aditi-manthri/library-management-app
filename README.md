@@ -73,4 +73,20 @@ There are 3 Python files;
   2. celery_config.py
   3. tasks.py
 
+Screenshots:
+
+![Screenshot (8)](https://github.com/user-attachments/assets/0ffed665-968e-41bc-9e87-991caf719ec2)
+
+![Screenshot (10)](https://github.com/user-attachments/assets/a7bf9ec2-59d9-4bdc-ba1e-9eae779aebd7)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/9ba5e408-9245-4b07-9a1c-bdd5bf535a44)
+
+![Screenshot (13)](https://github.com/user-attachments/assets/af7b4242-1116-4cba-85e5-92e203c165f1)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/7651a039-8182-4a46-8a55-b853d31c014b)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/836d83d5-9635-42ef-8a9e-6b079ad798d5)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/ed10198f-f89b-4dc2-a70c-53279c58b2bd)
+
 Video Link: https://drive.google.com/file/d/1P3gvgEi1CBat7yFJ5LbVEsAe3cj3nOAt/view?usp=drive_link
